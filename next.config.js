@@ -3,6 +3,7 @@ const nextConfig = {
   images: {
     domains: ["imgnews.pstatic.net"],
   },
+  output: "export",
 };
 
 module.exports = nextConfig;
